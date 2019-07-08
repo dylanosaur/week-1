@@ -1,0 +1,6 @@
+Write a function that accepts two arguments: an array and a function
+----
+parameters: (myArray: array, f: function)
+----
+and returns an array that is equivalent to myArray.forEach(v=>f(v)) without 
+ever explicitly calling the forEach method

@@ -1,0 +1,2 @@
+What is your favorite thing about javascript and what is your 
+least favorite thing about javascript? Why?

@@ -1,0 +1,7 @@
+What is your favorite thing about javascript and what is your 
+least favorite thing about javascript? Why?
+
+Basically as long as the features you mention are actually features of javascript
+and you give reasons you should be fine. This is meant to be an open ended, 
+subjective question to test the applicants ability to respond when faced with
+tough questions or questions they haven't thought about before.
